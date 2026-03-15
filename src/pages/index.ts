@@ -1,0 +1,5 @@
+export { DiscoverPage } from "./discover"
+export { LatestPage } from "./latest"
+export { PopularPage } from "./upcoming"
+export { FavoritesPage } from "./favorites"
+export { GameDetailPage } from "./game-detail"
